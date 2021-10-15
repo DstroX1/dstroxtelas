@@ -1,6 +1,6 @@
 <!-- dstrox -->
 
-<h3><p align="center">Disclaimer</p></h3>
+<h3><p align="center">Infomacoes</p></h3>
 
 ##
 
