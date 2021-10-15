@@ -151,28 +151,18 @@ kill_pid() {
 
 ## Banner
 banner() {
-	cat <<- EOF
-		${ORANGE}
-		${ORANGE} ______      _     _     _               
-		${ORANGE}|___  /     | |   (_)   | |              
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
-		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.2
+	cat <<- EOF                     
+		${ORANGE}      DSTROX 1777             ${RED}Version : 1.0 BETA
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Modificado pro DstroX ${WHITE}
 	EOF
 }
 
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-		${BLUE}
-		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
-		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.2
+		${BLUE}DSTROX 1777
+		${WHITE} 2.2
 	EOF
 }
 
@@ -303,9 +293,9 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
+		${GREEN}Author   ${RED}:  ${ORANGE}DstroX${RED}
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/DstroX1
+		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/DstroX
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
