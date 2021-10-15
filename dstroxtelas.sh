@@ -1,9 +1,9 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   dstroxtelas 	: 	Automated  Tool
+##   Author 	:       DstroX 1777 
 ##   Version 	: 	2.2
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/DstroX1
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
