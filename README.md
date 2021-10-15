@@ -45,6 +45,6 @@ $ docker run --rm -it DstroX1/dstroxtelas
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> All the dependencies will be installed automatically when you run `dstrotelas` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
