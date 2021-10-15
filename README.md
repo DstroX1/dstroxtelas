@@ -1,6 +1,6 @@
 <!-- dstrox -->
 
-<h3><p align="center">TRADUZIDO E MODIFICADO PRO DSTROX 1777</p></h3>
+<h3><p align="center">TRADUZIDO E MODIFICADO POR DSTROX 1777</p></h3>
 
 ##
 
@@ -14,7 +14,7 @@
 - Beginners friendly
 - Docker support (checkout `docker-legacy` branch)
 - Multiple tunneling options
-  - Localhost
+  - Localhost (RECOMENDADO)
   - Ngrok (With or without hotspot)
   - Cloudflared (Alternative of Ngrok)
 
