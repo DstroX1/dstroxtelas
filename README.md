@@ -1,4 +1,4 @@
-<!-- dstrox --!>
+<!-- dstrox -->
 
 <p align="center">
   <img src=".imgs/logo.png">
