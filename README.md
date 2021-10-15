@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+<!-- dstrox --!>
 
 <p align="center">
   <img src=".imgs/logo.png">
@@ -34,23 +34,23 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 $ git clone 
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `dstroxtelas.sh` -
 ```
-$ cd dstrox
-$ bash dstrox.sh
+$ cd dstroxtelas
+$ bash dstroxtelas.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `dstroxtelas` is installed.
 
 ### Run on Docker
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull DstroX1/dstroxtelas
+$ docker run --rm -it DstroX1/dstroxtelas
 ```
 
 ### Dependencies
 
-**`Zphisher`** requires following programs to run properly - 
+**`dstrotelas`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
