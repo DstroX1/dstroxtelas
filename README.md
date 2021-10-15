@@ -23,7 +23,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone 
+$ git clone https://github.com/DstroX1/dstroxtelas 
 ```
 
 - Change to cloned directory and run `dstroxtelas.sh` -
