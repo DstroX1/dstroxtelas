@@ -1,8 +1,11 @@
 <!-- dstrox -->
 
-<h3><p align="center">Infomacoes</p></h3>
+<h3><p align="center">TRADUZIDO E MODIFICADO PRO DSTROX 1777</p></h3>
 
 ##
+
+### Creditos
+
 
 ### Features
 
