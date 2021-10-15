@@ -6,6 +6,7 @@
 
 ### Creditos
 
+https://github.com/htr-tech/zphisher
 
 ### Features
 
@@ -19,7 +20,7 @@
   - Cloudflared (Alternative of Ngrok)
 
 
-### Installation
+### Instalacão
 
 - Just, Clone this repository -
 ```
